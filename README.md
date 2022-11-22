@@ -10,7 +10,7 @@
 
 ### Habilidades: 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50" height="50" />
@@ -47,18 +47,18 @@
 
 ### Ambientes de Desenvolvimento:
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fkhattakdev%2Fgithub-copilot-everything-you-need-to-know-3i1n&psig=AOvVaw0haBUsVDS-SMVt653Ggoek&ust=1669166476383000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCBwe_PwPsCFQAAAAAdAAAAABAJ)" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l-we2E_m--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63m4pr5znzfqrqlwn39k.png" title="Linux" alt="Linux" width="auto" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
 </div>
 
-### 
-<div  align="center">
+### Estatísticas do meu GitHub:
+<div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William1344&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William1344&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=William1344&theme=dark&locale=pt-br)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=William1344&theme=dark&locale=pt-br)](https://git.io/streak-stats)
