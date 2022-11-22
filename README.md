@@ -6,6 +6,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+## :seedling: Sobre mim:
+  Atualmente estou cursando 8º semestre da Engenharia de Computação na Unipampa. Além dos estudo voltados para a faculdade, estudo programação voltada ao desenvolvimento full stack, mobile e web utilizando a linguagem javaScript e os frameworks ReactJS e React Native.   
+  Utilizo em todos os meus projetos a ferramenta GitHub Copilot, na qual proporciona agilidade no desenvolvimento de códigos.
+  
+
 ## :woman_technologist: Habilidades e conhecimentos :
 
 ### Habilidades: 
@@ -50,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l-we2E_m--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63m4pr5znzfqrqlwn39k.png" title="Linux" alt="Linux" width="auto" height="50"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l-we2E_m--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63m4pr5znzfqrqlwn39k.png" title="Copilot" alt="Copilot" width="auto" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
 </div>
 
