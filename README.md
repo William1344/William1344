@@ -60,7 +60,7 @@
 </div>
 
 ### WakaTime
-[![wakatime](https://wakatime.com/badge/user/<seu-id-do-wakatime>.svg)](https://wakatime.com/@<waka_66096729-50a9-4af3-82d7-c182ef2f9936>)
+[![wakatime](https://wakatime.com/badge/user/<seu-id-do-wakatime>.svg)](https://wakatime.com/@<018b6c56-a95e-48fa-81e6-03cfbd6e9700>)
 
 
 ### Estatísticas do meu GitHub:
