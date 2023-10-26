@@ -59,6 +59,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
 </div>
 
+### WakaTime
+
+
 ### Estatísticas do meu GitHub:
 <div>
   <a href="https://github.com/seu-usuário-aqui">
