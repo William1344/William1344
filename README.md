@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="50" height="50"/>
 </div>
 
-### Frameworks:
+### Front end:
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="50" height="50" />
